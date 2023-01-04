@@ -29,7 +29,7 @@ my_dict = {
     "hp_kW": hp,
     "km": km,
     'Gearing_Type':gearing_type,
-    "make_model": car_model
+    "make_model": car_model,
     "cons_comb": cons,
     "Fuel": fuel
     
