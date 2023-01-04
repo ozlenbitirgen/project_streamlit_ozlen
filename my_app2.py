@@ -26,7 +26,6 @@ richard_transformer = pickle.load(open('transformer2', 'rb'))
 
 my_dict = {
     "age": age,
-    "hp_kW": hp,
     "km": km,
     'Gearing_Type':gearing_type,
     "make_model": car_model,
